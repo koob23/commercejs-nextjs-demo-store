@@ -45,7 +45,7 @@ class MyDocument extends Document {
         <body>
               <script type="text/javascript">
 var utag_data = {
-  page_name : "", // Contains a user-friendly name for the page.
+ 
   page_section : "", // Contains a user-friendly page section, e.g. 'configuration section'.
   page_category : "", // Contains a user-friendly page category, e.g. 'appliance page'.
   page_subcategory : "", // Contains a user-friendly page subcategory, e.g. 'refrigerator page'.
